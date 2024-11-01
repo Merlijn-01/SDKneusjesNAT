@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\merli\\source\\repos\\C3 Schoolvoetbal\\C3 Schoolvoetbal.csproj": {}
+    "C:\\github\\SDKneusjesNAT\\C3 Schoolvoetbal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\merli\\source\\repos\\C3 Schoolvoetbal\\C3 Schoolvoetbal.csproj": {
+    "C:\\github\\SDKneusjesNAT\\C3 Schoolvoetbal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\merli\\source\\repos\\C3 Schoolvoetbal\\C3 Schoolvoetbal.csproj",
+        "projectUniqueName": "C:\\github\\SDKneusjesNAT\\C3 Schoolvoetbal.csproj",
         "projectName": "C3 Schoolvoetbal",
-        "projectPath": "C:\\Users\\merli\\source\\repos\\C3 Schoolvoetbal\\C3 Schoolvoetbal.csproj",
+        "projectPath": "C:\\github\\SDKneusjesNAT\\C3 Schoolvoetbal.csproj",
         "packagesPath": "C:\\Users\\merli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\merli\\source\\repos\\C3 Schoolvoetbal\\obj\\",
+        "outputPath": "C:\\github\\SDKneusjesNAT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
